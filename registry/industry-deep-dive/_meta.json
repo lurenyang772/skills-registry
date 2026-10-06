@@ -1,0 +1,24 @@
+{
+  "skill": "industry-deep-dive",
+  "published_at": "2026-10-06 09:56:22",
+  "entry_count": 15,
+  "entry_hashes": {
+    "frontmatter": "dc497aaa05c1f85e",
+    "参考文件-按需加载-勿一次全读": "f16e93fad954ddab",
+    "工作流程-八阶段-五镜一决": "c1d1205b18016707",
+    "常见坑-红线": "cea51482fa2f1a5a",
+    "置信度引擎-贯穿全程-红线": "b295aa863e6fd9a1",
+    "这是什么-与-搜资料-的本质区别": "02c65a5d7efadf69",
+    "阶段-0-立项对齐-Align-Configure": "04b942f4758c891e",
+    "阶段-1-市场镜-Market-Lens": "e73296f8c2739c8c",
+    "阶段-2-竞争镜-利润池-Competition-Lens-签名": "1bedb2bb4d974084",
+    "阶段-3-供应链镜-Supply-Lens-原文没有": "e43f070f1e2972e9",
+    "阶段-4-流量镜-Traffic-Lens": "0158037c9f8e3398",
+    "阶段-5-风险镜-Risk-Lens-原文没有": "72d316169c02e5d7",
+    "阶段-6-知识地图-Synthesis-Map": "0102c4f6ed1afa31",
+    "阶段-7-决策镜-Decision-Lens-签名": "a11da8a2e286f4ea",
+    "阶段-8-交付物-Deliverables": "cb30d500f8977525"
+  },
+  "policy": "章节条目级授权；含本机绑定的条目不写入本目录",
+  "invariant": "staging 与 private 均不进入版本库；registry 是唯一可共享面"
+}

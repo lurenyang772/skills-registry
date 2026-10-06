@@ -1,0 +1,19 @@
+{
+  "skill": "self-improving-agent",
+  "published_at": "2026-10-06 09:56:36",
+  "entry_count": 10,
+  "entry_hashes": {
+    "frontmatter": "bedf97848e170649",
+    "何时不要使用": "307ffc2478e2b414",
+    "使用提示": "b12f54f6b4a0396b",
+    "典型使用场景": "35c4c230cd28825f",
+    "功能清单": "0571995bc0631cdf",
+    "备注": "524b36f4201f96f7",
+    "外部依赖与前置检查": "c00018b6c6495eb3",
+    "标准操作流程": "e3ab1b107bc658e7",
+    "用途": "6bf0fbc0285687e6",
+    "触发条件": "6bd7c7063c8b164d"
+  },
+  "policy": "章节条目级授权；含本机绑定的条目不写入本目录",
+  "invariant": "staging 与 private 均不进入版本库；registry 是唯一可共享面"
+}

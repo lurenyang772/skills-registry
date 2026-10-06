@@ -1,0 +1,15 @@
+.gitattributes
+* text=auto eol=lf
+*.md text diff=markdown
+
+# 私有区与暂存区永不进入版本库。
+# 这是「可以选择不共享」的结构保证：不是靠某个人记得别提交，
+# 而是版本库根本看不到这两个目录。
+_private/
+_staging/
+
+# 工具脚本属于本地生产设施，不属于社区知识资产
+_工具/
+*.log
+*.py
+ledger.jsonl

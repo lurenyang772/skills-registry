@@ -1,0 +1,20 @@
+{
+  "skill": "html-to-docx-convert-verify",
+  "published_at": "2026-10-06 09:56:38",
+  "entry_count": 11,
+  "entry_hashes": {
+    "frontmatter": "ed5d29be00bfae93",
+    "一-环境-官方脚本在-Windows-上不可用-需自建-venv": "25a44e5ffd6ea9aa",
+    "七-纪律": "d0d29e01a7d3e66f",
+    "三-引擎的硬契约-踩过的静默缺陷": "b2930cc277c8a2cc",
+    "九-页数与打印通路取证-避免-转换成功但页数不对": "25314e9419b12f40",
+    "二-调用": "b6962d4afc19d04c",
+    "五-验收口径-7-项-缺一即未完成": "51dff4646e9a7136",
+    "何时用": "c96e77a37bb32a90",
+    "八-图片尺寸-不给-width-会被裁切-2026-09-28-实测-最易漏的一": "79233d4febbf1e2a",
+    "六-定位-转换成功但内容缺失-的通用手法": "d0416a94581d8546",
+    "四-HTML-侧的规范写法": "3c4c0dbb3072b425"
+  },
+  "policy": "章节条目级授权；含本机绑定的条目不写入本目录",
+  "invariant": "staging 与 private 均不进入版本库；registry 是唯一可共享面"
+}

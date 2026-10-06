@@ -1,0 +1,28 @@
+{
+  "skill": "verify-before-claim",
+  "published_at": "2026-10-06 09:56:32",
+  "entry_count": 19,
+  "entry_hashes": {
+    "Constraints-不做什么-质量门槛-逃逸条款": "82591eda7b875cb7",
+    "Goal-可验证输出物": "9620849d88d63de0",
+    "Inputs": "7dcf52670142eefd",
+    "Verification-Checklist": "b98d84b4d2c32393",
+    "frontmatter": "cadca058ea1dcf9e",
+    "七类失败形态-判据索引": "e750d0ce18a81cfb",
+    "不触发": "464ee12062a07179",
+    "何时用": "58f7c9dc7e2056cd",
+    "使用示例": "6cfef0be5f10211d",
+    "依赖": "34876326fed70783",
+    "判据库-按需加载": "b3a4b8530f4f4d6f",
+    "定位": "c7b902b0321aeb37",
+    "常见错误": "5667c1a0b881dab2",
+    "核心资产一-报-PASS-的检查器-必须先自证能报-FAIL": "17dafca79e5a0c5d",
+    "核心资产二-五不信": "022f7ecad02819ec",
+    "步骤-读取-处理-验证": "3c57bf3f41920e25",
+    "触发词": "5c7c494f751dd269",
+    "边界与安全": "e60cff1dab18bc6e",
+    "速查": "7bac9f123d8e3dc3"
+  },
+  "policy": "章节条目级授权；含本机绑定的条目不写入本目录",
+  "invariant": "staging 与 private 均不进入版本库；registry 是唯一可共享面"
+}

@@ -1,0 +1,16 @@
+{
+  "skill": "fact-check",
+  "published_at": "2026-10-06 09:56:37",
+  "entry_count": 7,
+  "entry_hashes": {
+    "References": "5b4095ead2b87c80",
+    "frontmatter": "77ed986ced0ce791",
+    "交付格式": "84dcafa3f3c1f768",
+    "作业流程": "5d657911ce11e313",
+    "判定与置信度": "f326744f70414ee8",
+    "核心原则": "02f468065d100344",
+    "试试这样问-用户引导示例": "0bb4872e1ca8a5df"
+  },
+  "policy": "章节条目级授权；含本机绑定的条目不写入本目录",
+  "invariant": "staging 与 private 均不进入版本库；registry 是唯一可共享面"
+}

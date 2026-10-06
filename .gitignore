@@ -1,0 +1,21 @@
+# ★ 私有区与暂存区：绝不入版本库
+# 注意：.gitattributes 对已跟踪文件无效，
+# 真正的第一道防线是 .gitignore（阻止 add），.gitattributes 只是第二道。
+_private/
+_staging/
+外发清单/
+.git-rewrite/
+_site/
+
+# 工具脚本与日志属本地生产设施，不属于社区知识资产
+_工具/
+*.log
+*.py
+__pycache__/
+ledger.jsonl
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.bak
+*~
